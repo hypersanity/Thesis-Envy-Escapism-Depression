@@ -1,0 +1,257 @@
+"","age","gender","citi","immigration","education_num","education","personal_income_num","personal_income","postcode","residency","sm_frequency","sm_types","ben_env_sum","mal_env_sum","sup_esc_sum","exp_esc_sum","reason_beyond_dp","dep_sum","ses_subjective_num","ses_subjective","ses_woa_avg","ses_woa_year","urbanity","addresses_per_km2","social_assistance"
+"1",22,"male","eu_eea","both_parent_nl",3,"havo_vwo",700.5,"decile_2","7701","6_months",2.5,"Youtube ",30,6,4,20,"",0,6,"l6",0.036,"2023","strongly urbanised",842,810
+"2",35,"male","eu_eea","born_abroad",6,"wo",5150.5,"decile_9","2611","6_months",2.5,"",19,10,9,16,"",6,5,"l5",-0.148,"2023","not urbanised",4905,570
+"3",21,"male","eu_eea","both_parent_nl",6,"wo",150,"decile_1","1611","6_months",1.5,"Tiktok, Snapchat, Youtube, Twitter, LinkedIn",28,8,22,10,"",30,5,"l5",0.076,"2023","moderately urbanised",1286,705
+"4",31,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","2133","6_months",1.5,"Instagram",16,9,17,20,"",10,6,"l6",0.156,"2023","hardly urbanised",2307,480
+"5",32,"male","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","8931","6_months",2.5,"Youtube, LinkedIn",20,15,13,23,NA,14,7,"l7",-0.31,"2023","hardly urbanised",1995,530
+"6",33,"male","eu_eea","both_parent_nl",3,"havo_vwo",NA,"income_pns","3089","6_months",4.5,"Youtube & Reddit",14,11,23,9,"",24,3,"l3",-0.176,"2023","extremely urbanised",327,185
+"7",26,"female","eu_eea","both_parent_nl",6,"wo",NA,"income_pns","5141","6_months",3.5,"instagram - tiktok - YouTube",24,19,16,18,"work",10,6,"l6",0.016,"2023","hardly urbanised",1706,405
+"8",28,"female","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","1945","6_months",3.5,"Youtube, Linkedin, Reddit",17,29,16,20,"",8,8,"l8",-0.092,"2023","not urbanised",3601,700
+"9",36,"female","eu_eea","born_abroad",6,"wo",7050.5,"decile_10","2562","6_months",1.5,"Tiktok",16,7,17,18,"",20,7,"l7",-0.137,"2023","not urbanised",8815,995
+"10",22,"male","eu_eea","one_parent_nl",5,"hbo",150,"decile_1","2957","6_months",2.5,"Instagram, TikTok, Reddit, LinkedIn.",14,7,17,12,"",24,7,"l7",0.045,"2023","strongly urbanised",836,400
+"11",26,"female","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","6211","under_6_months",1.5,"Instagram, TikTok",35,11,18,19,"",22,6,"l6",-0.389,"2023","not urbanised",4268,780
+"12",27,"male","eu_eea","both_parent_nl",5,"hbo",3500.5,"decile_7","7201","6_months",2.5,"Instagram",24,13,11,18,"",2,7,"l7",-0.1,"2023","hardly urbanised",2450,620
+"13",31,"female","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","3181","6_months",2.5,"facebook and instagram",18,16,16,15,"",38,6,"l6",-0.032,"2023","moderately urbanised",1225,910
+"14",49,"male","eu_eea","born_abroad",5,"hbo",1350.5,"decile_3","1055","6_months",3.5,"reddit, instagram, linkedin",24,8,20,17,"linkedin: to find jobs. instagram: for photo inspiration. Reddit: for some news content, information and reviews about work platforms and products.",8,4,"l4",-0.095,"2023","not urbanised",7195,2260
+"15",45,"male","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","9712","6_months",1.5,"Instgram Linkedin",13,12,12,18,"",2,7,"l7",-0.434,"2023","not urbanised",7008,715
+"16",45,"female","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","8012","6_months",1.5,"Instagram ",25,5,18,14,"Relaxing. Information",18,7,"l7",0.027,"2023","not urbanised",2970,505
+"17",32,"female","eu_eea","both_parent_nl",6,"wo",7050.5,"decile_10","1508","6_months",3.5,"Instagram ",20,13,12,8,"",4,7,"l7",-0.196,"2023","hardly urbanised",2014,510
+"18",29,"non_binary","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","3531","under_6_months",1.5,"Instagram",20,5,25,19,"I feel like I use social media to get inspired, and to have ideas. I save a lot of art things on there, but also relationship advice, or beautiful poetry. I also do it to connect to people like me. I am queer. So I find relatable content about my gender / sexuality on there which make me feel like I belong. Additionally, I find a lot of events or places where I can meet people like me on Social media. So it is a place where I am finding out about things in the real world. Additionally, I cannot control my feed completely, so I also sometimes see things that make me feel less positive emotions. Or when I see so many happy people, I feel like, wow, they all seem like they have it so easy, while that is not always the case for me. But I also know that it is not real. But it does take mental strength to keep telling myself that. ",14,5,"l5",-0.001,"2023","not urbanised",4475,895
+"19",37,"male","eu_eea","both_parent_nl",2,"vmbo_mavo",3500.5,"decile_7","1445","6_months",3.5,"Tiktok",18,13,16,17,"Fun",14,7,"l7",-0.127,"2023","hardly urbanised",2349,1050
+"20",37,"female","eu_eea","born_abroad",6,"wo",150,"decile_1","1115","6_months",1.5,"youtube, linkedin, bluesky",20,15,20,6,"I use Youtube for DIY videos, and Bluesky to learn how the journalists I follow comment about the daily news. ",2,8,"l8",0.086,"2023","hardly urbanised",2025,320
+"21",32,"male","eu_eea","born_abroad",5,"hbo",3500.5,"decile_7","3541","6_months",4.5,"Youtube and Instagram",31,6,18,19,"No other reasons",24,5,"l5",0.275,"2023","not urbanised",2735,840
+"22",26,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","2317","6_months",2.5,"",16,10,21,20,"For me it's also a way to stay connected to what goes on in the world. Not just news wise, but also what is relevant in a cultural context. ",16,7,"l7",0.049,"2023","not urbanised",2539,855
+"23",27,"male","eu_eea","both_parent_nl",6,"wo",150,"decile_1","5616","6_months",1.5,"Instagram",28,23,15,9,"",34,6,"l6",-0.011,"2023","not urbanised",4108,830
+"24",21,"male","eu_eea","both_parent_nl",2,"vmbo_mavo",150,"decile_1","8900","6_months",3.5,"insta snapchat youtube",28,10,16,9,"",12,10,"l10",NA,NA,NA,NA,NA
+"25",25,"male","eu_eea","both_parent_nl",4,"mbo",1350.5,"decile_3","5391","6_months",0.5,"tiktok",10,14,24,8,"",30,6,"l6",0.229,"2023","extremely urbanised",449,175
+"26",21,"male","eu_eea","both_parent_nl",3,"havo_vwo",700.5,"decile_2","5654","under_6_months",0.5,"instagram",23,22,19,10,"",22,5,"l5",-0.241,"2023","not urbanised",2522,1135
+"27",31,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","9502","6_months",1.5,"Instagram, Facebook and YouTube.",21,19,16,15,"Not really. Just seeing how my 'friends' are doing.",24,6,"l6",-0.041,"2023","strongly urbanised",830,535
+"28",25,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","5038","6_months",0.5,"Youtube, Tumblr, Instagram",22,14,14,16,"",6,7,"l7",-0.193,"2023","not urbanised",5430,1110
+"29",41,"male","eu_eea","both_parent_abroad",5,"hbo",3500.5,"decile_7","1018","6_months",2.5,"",21,24,15,18,"",24,8,"l8",0.042,"2023","not urbanised",7113,1875
+"30",23,"male","eu_eea","both_parent_nl",5,"hbo",700.5,"decile_2","9951","6_months",1.5,"Youtube",17,24,16,16,"",12,7,"l7",0.126,"2023","strongly urbanised",689,465
+"31",39,"male","eu_eea","both_parent_nl",3,"havo_vwo",2900.5,"decile_6","3815","6_months",2.5,"Instagram, YouTube, Strava",21,23,18,13,"to stay in touch with friends & community",26,6,"l6",-0.08,"2023","not urbanised",2756,1215
+"32",18,"female","eu_eea","both_parent_nl",3,"havo_vwo",150,"decile_1","1705","6_months",3.5,"Tiktok and Instagram",13,12,22,8,"",28,3,"l3",0.244,"2023","hardly urbanised",1733,1275
+"33",33,"male","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","3511","6_months",1.5,"Tiktok, Instagram",10,11,6,16,"educational purposes, learning new skills as cooking",6,7,"l7",0.118,"2023","not urbanised",5812,470
+"34",25,"male","eu_eea","both_parent_nl",4,"mbo",2900.5,"decile_6","8223","6_months",4.5,"Instagram",18,11,15,22,"",26,4,"l4",-0.397,"2023","moderately urbanised",1299,680
+"35",22,"male","eu_eea","both_parent_nl",6,"wo",1350.5,"decile_3","8084","6_months",1.5,"Instagram",25,23,20,15,"",4,7,"l7",0.118,"2023","strongly urbanised",689,445
+"36",23,"female","eu_eea","born_abroad",5,"hbo",1850.5,"decile_4","5017","6_months",3.5,"",30,21,24,17,"",28,6,"l6",0.096,"2023","not urbanised",4125,310
+"37",45,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","1014","6_months",0.5,"Facebook, Instagram",14,15,17,16,"",22,8,"l8",0.531,"2023","not urbanised",3606,180
+"38",30,"female","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","2806","under_6_months",3.5,"TikTok",20,14,18,18,"",16,7,"l7",-0.004,"2023","not urbanised",3207,1005
+"39",39,"male","eu_eea","both_parent_nl",4,"mbo",3500.5,"decile_7","7412","6_months",1.5,"tiktok",23,8,14,23,"",0,7,"l7",-0.039,"2023","hardly urbanised",2397,1215
+"40",29,"male","non_eu_eea","both_parent_nl",4,"mbo",3500.5,"decile_7","1014","6_months",1.5,"Instagram, Tiktok",29,12,16,21,"Also for finding information, recepies etc",8,7,"l7",0.531,"2023","not urbanised",3606,180
+"41",31,"female","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","2274","6_months",1.5,"Instagram, LinkedIn and Facebook",25,14,20,17,"",20,6,"l6",0.197,"2023","not urbanised",4081,665
+"42",40,"male","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","2061","6_months",0.5,"Twitter",10,10,10,20,"I just use it to keep up to date with news, information about companies/projects etc.",20,5,"l5",0.278,"2023","moderately urbanised",1317,310
+"43",29,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","3552","6_months",0.5,"",26,22,18,17,"",28,7,"l7",-0.066,"2023","not urbanised",4920,840
+"44",49,"male","eu_eea","both_parent_nl",3,"havo_vwo",7050.5,"decile_10","3207","6_months",0.5,"Reddit",11,14,8,18,"",34,7,"l7",0.18,"2023","hardly urbanised",1701,815
+"45",28,"male","eu_eea","both_parent_nl",4,"mbo",NA,"income_pns","1211","6_months",5.5,"Youtube",9,11,26,15,"",30,3,"l3",0.042,"2023","not urbanised",4042,700
+"46",31,"female","eu_eea","born_abroad",6,"wo",NA,"income_pns","7523","6_months",1.5,"Instagram, Facebook, Youtube",28,6,18,21,"Just to sit and relax.",4,5,"l5",-0.26,"2023","hardly urbanised",2490,1680
+"47",27,"female","non_eu_eea","born_abroad",6,"wo",150,"decile_1","6708","6_months",1.5,"Instagram and LinkedIn",22,5,18,21,"I use LinkedIn for my internship, to find relevant opportunities for my organization and network with people who could help us.",12,6,"l6",-0.15,"2023","hardly urbanised",2113,830
+"48",24,"male","eu_eea","born_abroad",2,"vmbo_mavo",700.5,"decile_2","2021","6_months",2.5,"youtube",15,9,11,23,"",4,6,"l6",0.161,"2023","not urbanised",3999,505
+"49",24,"female","non_eu_eea","born_abroad",5,"hbo",700.5,"decile_2","2611","6_months",2.5,"",23,12,20,19,"",14,4,"l4",-0.148,"2023","not urbanised",4905,570
+"50",28,"male","eu_eea","one_parent_nl",5,"hbo",4200.5,"decile_8","9752","6_months",2.5,"",10,10,8,8,"",0,8,"l8",0.208,"2023","strongly urbanised",940,215
+"51",26,"female","eu_eea","born_abroad",6,"wo",700.5,"decile_2","1107","6_months",1.5,"tictok",28,17,15,22,"",20,5,"l5",-0.253,"2023","hardly urbanised",2354,1270
+"52",29,"male","eu_eea","both_parent_nl",4,"mbo",4200.5,"decile_8","2012","6_months",2.5,"YouTube",19,10,16,10,"",6,7,"l7",0.334,"2023","not urbanised",4004,530
+"53",20,"female","eu_eea","both_parent_abroad",3,"havo_vwo",150,"decile_1","3063","6_months",0.5,"Instagram, LinkedIn ",23,21,20,15,"",18,7,"l7",-0.265,"2023","not urbanised",3598,705
+"54",28,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","2051","6_months",1.5,"Tiktok",28,8,10,19,"Entertainment. I also use Tiktok to find new tips or experiences people show me ",8,6,"l6",0.491,"2023","hardly urbanised",1710,165
+"55",19,"female","eu_eea","both_parent_nl",3,"havo_vwo",700.5,"decile_2","5014","6_months",3.5,"Tiktok and Instagram",27,12,26,13,"",28,7,"l7",-0.114,"2023","not urbanised",3816,885
+"56",45,"male","eu_eea","both_parent_nl",6,"wo",12600,"decile_omega","5706","6_months",0.5,"LinkedIn, Facebook",23,12,10,17,"",0,8,"l8",0.163,"2023","moderately urbanised",1469,955
+"57",28,"male","eu_eea","both_parent_nl",5,"hbo",3500.5,"decile_7","7121","6_months",0.5,"Youtube",22,11,18,17,"",10,6,"l6",0.086,"2023","strongly urbanised",970,530
+"58",41,"male","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","1071","6_months",1.5,"YouTube, Instagram, Facebook",22,17,13,14,"I use it for gym exercises too",18,7,"l7",0.345,"2023","not urbanised",7994,350
+"59",19,"male","eu_eea","born_abroad",3,"havo_vwo",1350.5,"decile_3","6709","6_months",2.5,"Youtube, Instagram ",22,13,18,14,"",8,6,"l6",-0.442,"2023","hardly urbanised",2019,180
+"60",48,"female","eu_eea","both_parent_abroad",5,"hbo",4200.5,"decile_8","5156","6_months",3.5,"instagram",14,10,12,18,"just for fun, keeping up with what is happening",0,7,"l7",-0.064,"2023","extremely urbanised",483,240
+"61",35,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","3905","6_months",1.5,"reddit",19,14,11,17,"",2,8,"l8",0.053,"2023","hardly urbanised",2406,1090
+"62",52,"female","non_eu_eea",NA,6,"wo",5150.5,"decile_9","6701","6_months",1.5,"instagram , X ",28,6,15,28,"I use to improve my linkedin, my skin health and learning feminine energy from a influencer taht i love! I like social media so much and I enjoy it. ",4,8,"l8",-0.404,"2023","hardly urbanised",2459,190
+"63",42,"female","eu_eea","both_parent_nl",4,"mbo",1350.5,"decile_3","1076","6_months",0.5,"Facebook",21,7,15,23,"",2,5,"l5",0.04,"2023","not urbanised",5153,955
+"64",28,"female","eu_eea","born_abroad",6,"wo",3500.5,"decile_7","8226","6_months",3.5,"Tiktok",22,5,18,14,"",24,5,"l5",-0.066,"2023","hardly urbanised",1544,980
+"65",35,"male","eu_eea","both_parent_nl",5,"hbo",4200.5,"decile_8","4012","6_months",3.5,"X",20,10,28,14,"",0,7,"l7",0.312,"2023","extremely urbanised",185,50
+"66",33,"female","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","9724","6_months",0.5,"instagram, youtube",22,12,14,15,"",12,5,"l5",-0.28,"2023","not urbanised",4492,435
+"67",26,"female","eu_eea","born_abroad",4,"mbo",150,"decile_1","4812","6_months",1.5,"Used to be tiktok, now I tried to move away from it. Currently most used is YouTube ",9,5,20,26,"I mostly use it for entertainment, inspiration or improving my mood. ",20,5,"l5",-0.151,"2023","not urbanised",2887,1180
+"68",33,"female","eu_eea","both_parent_nl",4,"mbo",5150.5,"decile_9","7232","6_months",0.5,"instagram",13,26,28,7,"",34,6,"l6",0.178,"2023","moderately urbanised",1438,205
+"69",32,"female","eu_eea","both_parent_nl",2,"vmbo_mavo",1850.5,"decile_4","1025","under_6_months",0,"reddit",25,18,21,16,"",36,6,"l6",-0.254,"2023","not urbanised",3336,1640
+"70",54,"female","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","1077","6_months",1.5,"Instagram / threads (equal)",26,10,14,22,"",12,7,"l7",0.427,"2023","not urbanised",5362,185
+"71",39,"male","eu_eea","born_abroad",6,"wo",3500.5,"decile_7","2333","6_months",2.5,"Twitter",24,14,12,20,"",18,6,"l6",-0.142,"2023","not urbanised",2566,110
+"72",29,"female","non_eu_eea","born_abroad",6,"wo",150,"decile_1","6226","under_6_months",5.5,"rednotes",5,35,13,21,"",12,6,"l6",-0.04,"2023","hardly urbanised",2450,615
+"73",29,"female","eu_eea","both_parent_nl",6,"wo",7050.5,"decile_10","5622","6_months",1.5,"Tiktok, instagram, snapchat, sometimes linkedin or pinterest",26,8,12,16,"It's fun, entertainment. And I like to see what happens in the lives of my friends",2,9,"l9",-0.143,"2023","not urbanised",3750,895
+"74",27,"female","eu_eea","both_parent_nl",5,"hbo",2350.5,"decile_5","7522","6_months",5.5,"Instagram",22,7,20,12,"",24,6,"l6",-0.354,"2023","moderately urbanised",1417,260
+"75",24,"male","eu_eea","one_parent_nl",4,"mbo",150,"decile_1","5976","6_months",3.5,"X twitter, youtube",30,7,23,22,"",16,8,"l8",0.308,"2023","extremely urbanised",122,40
+"76",27,NA,"eu_eea","both_parent_nl",5,"hbo",150,"decile_1","1817","6_months",1.5,"Instagram and Youtube",15,13,25,12,"",28,6,"l6",0.2,"2023","hardly urbanised",1844,230
+"77",19,"female","eu_eea","both_parent_abroad",3,"havo_vwo",150,"decile_1","2516","6_months",5.5,"youtube",25,14,19,17,"",22,5,"l5",-0.514,"2023","not urbanised",5320,1350
+"78",23,"male","eu_eea","both_parent_nl",2,"vmbo_mavo",1350.5,"decile_3","7552","6_months",2.5,"Twitter/X, tiktok",24,11,11,19,"As a general distraction when bored",22,5,"l5",-0.149,"2023","hardly urbanised",1684,1280
+"79",19,"female","eu_eea","both_parent_nl",1,"no_edu_or_primary_edu",0,"income_na","2352","6_months",5.5,"Youtube",16,16,13,12,"",18,6,"l6",0.105,"2023","not urbanised",3285,620
+"80",19,"female","non_eu_eea","born_abroad",3,"havo_vwo",NA,"income_pns","9747","6_months",3.5,"Instagram",23,19,22,16,"",20,5,"l5",NA,"2023","strongly urbanised",983,NA
+"81",32,"male","eu_eea","both_parent_nl",3,"havo_vwo",2900.5,"decile_6","3911","6_months",0.5,"Instagram",16,16,14,22,"",12,4,"l4",0.121,"2023","moderately urbanised",1047,1005
+"82",30,"male","eu_eea","both_parent_nl",4,"mbo",4200.5,"decile_8","7843","6_months",1.5,"Facebook, linkedin",30,17,23,24,"",6,6,"l6",0.044,"2023","extremely urbanised",110,65
+"83",36,"male","eu_eea","both_parent_nl",3,"havo_vwo",2900.5,"decile_6","4205","6_months",0.5,"Youtube",18,23,8,8,"",4,6,"l6",-0.073,"2023","hardly urbanised",2063,965
+"84",66,"male","eu_eea","both_parent_nl",5,"hbo",2350.5,"decile_5","9501","6_months",2.5,"facebook",22,23,13,15,"looking for art from other artist to compare with myself",24,6,"l6",-0.3,"2023","moderately urbanised",1267,1145
+"85",20,"male","non_eu_eea","born_abroad",3,"havo_vwo",NA,"income_pns","2332","6_months",3.5,"Instagram ",30,10,25,20,"",14,6,"l6",-0.048,"2023","not urbanised",3101,840
+"86",21,"female","eu_eea","born_abroad",3,"havo_vwo",150,"decile_1","3075","under_6_months",1.5,"tiktok and instagram",24,9,19,10,"",4,7,"l7",-0.523,"2023","not urbanised",4153,2130
+"87",41,"male","eu_eea","both_parent_abroad",3,"havo_vwo",0,"income_na","6916","6_months",3.5,"YouTube X TikTok",21,20,21,25,"Mostly for information gathering. And entertainment.",12,8,"l8",0.059,"2023","extremely urbanised",495,210
+"88",39,"male","eu_eea","both_parent_nl",5,"hbo",4200.5,"decile_8","5505","6_months",2.5,"YouTube ",13,5,8,16,"I use YouTube for education ",0,7,"l7",0.046,"2023","hardly urbanised",1589,330
+"89",28,"male","eu_eea","one_parent_nl",5,"hbo",2900.5,"decile_6","3522","6_months",2.5,"Instagram en YouTube",26,14,17,22,"Afleiding en om mezelf bezig te houden ",0,5,"l5",0.063,"2023","not urbanised",4753,790
+"90",57,"male","eu_eea","both_parent_nl",4,"mbo",5150.5,"decile_9","4871","6_months",3.5,"instagram",20,10,11,21,"no",14,7,"l7",0.161,"2023","hardly urbanised",1732,1095
+"91",44,"female","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","6706","6_months",0.5,"X and YouTube",10,12,17,12,"I use YouTube mostly for entertainment and tutorials, and I use X to read news and comments from the people I follow, and also for entertainment (short animal clips)",24,7,"l7",-0.162,"2023","hardly urbanised",2062,295
+"92",36,"male","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","8012","6_months",0.5,"Reddit",20,17,15,14,"To stay updated about music",6,6,"l6",0.027,"2023","not urbanised",2970,505
+"93",40,"female","eu_eea","born_abroad",5,"hbo",0,"income_na","2553","6_months",0.5,"YouTube, instagram ",7,5,8,21,"Entertainment",0,6,"l6",0.057,"2023","hardly urbanised",2201,1075
+"94",27,"male","eu_eea","both_parent_nl",6,"wo",2350.5,"decile_5","8103","6_months",1.5,"Youtube, linkedIn and Snapchat",12,22,18,8,"",30,7,"l7",0.297,"2023","strongly urbanised",771,395
+"95",20,"male","eu_eea","both_parent_nl",3,"havo_vwo",1850.5,"decile_4","3906","6_months",4.5,"youtube",26,6,10,16,"",22,8,"l8",0.332,"2023","moderately urbanised",1395,325
+"96",33,"male","eu_eea","both_parent_nl",6,"wo",12600,"decile_omega","1011","6_months",1.5,"Instagram ",28,22,17,4,"",0,9,"l9",0.056,"2023","not urbanised",7176,590
+"97",36,"male","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","7328","6_months",0.5,"Youtube",23,11,20,17,"Get ideas that I can implement in my life.",12,7,"l7",-0.046,"2023","hardly urbanised",2000,705
+"98",21,"female","eu_eea","one_parent_nl",3,"havo_vwo",150,"decile_1","5461","6_months",2.5,"Instagram",19,9,22,10,"",32,7,"l7",0.009,"2023","hardly urbanised",1834,335
+"99",44,"non_binary","eu_eea","born_abroad",5,"hbo",7050.5,"decile_10","1017","6_months",2.5,"Youtube",20,22,22,17,"Sometimes learning, sometimes just increase dopamin my brain whatever aesthetic things i like yo observe",28,6,"l6",0.205,"2023","not urbanised",9641,460
+"100",35,"male","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","3135","6_months",1.5,"YouTube, Reddit ",21,13,13,13,"Inform myself on new interests/hobbys. ",4,7,"l7",0.045,"2023","not urbanised",2649,875
+"101",22,"male","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","6708","6_months",4.5,"Instagram",22,25,21,21,"",10,4,"l4",-0.15,"2023","hardly urbanised",2113,830
+"102",36,"male","eu_eea","both_parent_nl",6,"wo",7050.5,"decile_10","5583","6_months",0.5,"Reddit ",5,11,7,16,"",0,9,"l9",0.313,"2023","strongly urbanised",957,245
+"103",27,"male","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","6247","6_months",0.5,"Whatsapp",26,24,20,20,"",24,6,"l6",0.248,"2023","extremely urbanised",356,170
+"104",38,"male","eu_eea","both_parent_nl",6,"wo",7050.5,"decile_10","3071","6_months",2.5,"Youtube, Instagram, Strava",27,5,14,20,"I also use social media for more practical reasons: finding inspiration for holidays, hikes, citytrips, etc. ",12,8,"l8",-0.278,"2023","not urbanised",4690,2580
+"105",27,"male","eu_eea","both_parent_nl",3,"havo_vwo",3500.5,"decile_7","1435","6_months",1.5,"Reddit and Instagram",17,22,14,22,"",22,7,"l7",0.052,"2023","extremely urbanised",478,290
+"106",37,"female","eu_eea","both_parent_nl",6,"wo",2350.5,"decile_5","7218","6_months",1.5,"Instagram",13,10,24,21,"",14,7,"l7",0.295,"2023","extremely urbanised",90,45
+"107",35,"female","eu_eea","both_parent_abroad",5,"hbo",5150.5,"decile_9","5233","6_months",2.5,"Facebook and instagram",10,6,22,20,"",2,8,"l8",-0.166,"2023","hardly urbanised",1762,875
+"108",34,"female","eu_eea","born_abroad",4,"mbo",4200.5,"decile_8","2012","6_months",3.5,"Tiktok",26,12,24,21,"",24,4,"l4",0.334,"2023","not urbanised",4004,530
+"109",25,"female","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","3772","6_months",2.5,"Youtube",22,16,14,14,"",6,6,"l6",0.15,"2023","moderately urbanised",1470,1110
+"110",53,"male","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","7004","6_months",2.5,"Reddit, YouTube",28,23,19,18,"To keep track of news that is not (extensively) covered in other news media, e.g. the war in Ukraine.",22,7,"l7",0.173,"2023","extremely urbanised",490,325
+"111",20,"male","non_eu_eea","born_abroad",3,"havo_vwo",150,"decile_1","2595","6_months",2.5,"Facebook",23,15,18,18,"",22,5,"l5",0.031,"2023","not urbanised",4922,630
+"112",27,"female","non_eu_eea","born_abroad",6,"wo",3500.5,"decile_7","3011","6_months",1.5,"",22,6,14,23,"",8,4,"l4",0.011,"2023","not urbanised",7011,1490
+"113",42,"female","eu_eea","born_abroad",6,"wo",1850.5,"decile_4","6617","6_months",2.5,"Instagram ",25,5,14,19,"",12,7,"l7",0.299,"2023","extremely urbanised",179,55
+"114",25,"female","eu_eea","both_parent_nl",5,"hbo",1350.5,"decile_3","5988","6_months",4.5,"Tiktok",20,14,26,17,"For inspiration",24,6,"l6",0.192,"2023","strongly urbanised",837,315
+"115",27,"male","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","6041","6_months",3.5,"Instagram",21,9,8,12,"I just use it to stay in touch with people",4,7,"l7",-0.013,"2023","hardly urbanised",2041,985
+"116",31,"female","eu_eea","born_abroad",1,"no_edu_or_primary_edu",0,"income_na","5804","6_months",3.5,"YouTube, Instagram ",29,26,27,12,"",30,10,"l10",0.352,"2023","strongly urbanised",902,220
+"117",37,"female","eu_eea","both_parent_nl",6,"wo",0,"income_na","4621","6_months",4.5,"Instagram, Facebook, Reddit",12,12,15,19,"",8,6,"l6",-0.391,"2023","not urbanised",2969,755
+"118",22,"female","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","5111","6_months",1.5,"Youtube",17,23,18,18,"",26,8,"l8",0.099,"2023","extremely urbanised",407,385
+"119",30,"female","eu_eea","both_parent_nl",4,"mbo",2350.5,"decile_5","9111","6_months",3.5,"Instagram",20,10,25,9,"",12,6,"l6",0.026,"2023","extremely urbanised",164,20
+"120",27,"female","eu_eea","born_abroad",5,"hbo",150,"decile_1","5622","6_months",2.5,"LinkedIn ",25,10,19,20,"For searching jobs and increasing my knowledge to reading other people reserch.",0,9,"l9",-0.143,"2023","not urbanised",3750,895
+"121",31,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","4811","6_months",2.5,"Youtube, Instagram, Reddit",7,8,18,11,"",12,6,"l6",-0.089,"2023","not urbanised",4062,1500
+"122",27,"female","eu_eea","born_abroad",3,"havo_vwo",150,"decile_1","6711","6_months",5.5,"Instagram ",32,14,24,17,"For inspiration, educational purposes, entertainment.",40,3,"l3",0.153,"2023","hardly urbanised",2008,765
+"123",25,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","9413","6_months",1.5,"Tiktok",23,14,17,8,"",12,8,"l8",0.54,"2023","extremely urbanised",460,45
+"124",34,"female","eu_eea","both_parent_nl",5,"hbo",1850.5,"decile_4","3645","6_months",0.5,"Instagram",30,17,17,10,"",18,8,"l8",0.235,"2023","strongly urbanised",637,455
+"125",37,"female","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","2513","6_months",2.5,"Instagram",29,19,22,20,"",18,8,"l8",-0.158,"2023","not urbanised",8068,910
+"126",42,"female","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","1814","6_months",1.5,"Instagram, whatsapp, linkedin, facebook",23,11,15,22,"Mostly for inspiration or entertainment",0,8,"l8",-0.05,"2023","not urbanised",3379,830
+"127",30,"female","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","2935","6_months",5.5,"YouTube",16,19,27,8,"To feel less lonely",40,3,"l3",0.217,"2023","extremely urbanised",488,205
+"128",32,"female","eu_eea","both_parent_nl",5,"hbo",NA,"income_pns","8219","6_months",2.5,"Youtube, reddit, instagram",24,10,17,16,"",28,3,"l3",0.566,"2023","extremely urbanised",296,125
+"129",28,"female","eu_eea","both_parent_nl",6,"wo",NA,"income_pns","5692","6_months",1.5,"Instagram twitter",24,20,15,15,"",0,7,"l7",0.461,"2023","strongly urbanised",534,60
+"130",27,"non_binary","eu_eea","one_parent_nl",6,"wo",2350.5,"decile_5","6523","6_months",0.5,"Instagram",21,10,9,13,"I look at other climbers that tell stories about their journeys and adventures and fantasise how it would be for me if i were to do it too. This, then, sometimes leads to me also going to those places (like climbing the Old Man of Stoer in Scotland)",8,8,"l8",-0.106,"2023","hardly urbanised",2163,760
+"131",18,"male","eu_eea","both_parent_nl",3,"havo_vwo",NA,"income_pns","3117","6_months",2.5,"",25,11,8,10,"",2,6,"l6",-0.064,"2023","not urbanised",3852,655
+"132",19,"male","eu_eea","both_parent_abroad",3,"havo_vwo",NA,"income_pns","6835","6_months",2.5,"reddit and youtube mainly",22,21,20,17,"",24,7,"l7",-0.08,"2023","hardly urbanised",1782,505
+"133",38,"female","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","7204","6_months",1.5,"Reddit, tumblr, facebook",14,6,6,19,"",0,5,"l5",-0.327,"2023","hardly urbanised",2438,1540
+"134",27,"female","eu_eea","both_parent_nl",5,"hbo",2900.5,"decile_6","5041","6_months",5.5,"Instagram, Tiktok",24,10,22,21,"Work",10,7,"l7",-0.113,"2023","not urbanised",5036,820
+"135",21,"male","eu_eea","both_parent_abroad",6,"wo",2350.5,"decile_5","2101","6_months",3.5,"Youtube",28,11,15,15,"",36,5,"l5",0.187,"2023","hardly urbanised",2385,430
+"136",38,"male","eu_eea","both_parent_nl",5,"hbo",2350.5,"decile_5","9301","6_months",0.5,"Instagram",10,10,8,10,"Primarily to read or watch on certain topics I like to follow.",4,7,"l7",-0.032,"2023","moderately urbanised",1138,840
+"137",52,"male","eu_eea","both_parent_nl",3,"havo_vwo",5150.5,"decile_9","2923","6_months",1.5,"Instagram ",21,15,17,17,"Just to spend time",6,8,"l8",-0.034,"2023","hardly urbanised",2080,400
+"138",35,"male","eu_eea","born_abroad",6,"wo",7050.5,"decile_10","2231","6_months",4.5,"Instagram, Youtube, Facebook",21,21,18,10,"",12,7,"l7",0.23,"2023","hardly urbanised",2064,675
+"139",49,"male","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","3818","6_months",1.5,"Youtube and Instagram",25,20,15,17,"I use Youtube for information and news as well",10,7,"l7",0.309,"2023","hardly urbanised",1724,790
+"140",29,"male","non_eu_eea","born_abroad",6,"wo",1350.5,"decile_3","1446","6_months",0.5,"Facebook",26,5,17,21,"",2,5,"l5",-0.025,"2023","moderately urbanised",1438,480
+"141",28,"male","eu_eea","both_parent_abroad",5,"hbo",5150.5,"decile_9","1319","under_6_months",0.5,"",32,13,10,16,"",8,8,"l8",0.469,"2023","strongly urbanised",623,280
+"142",21,"female","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","6212","6_months",2.5,"Instagram",29,22,20,17,"as a reward after working hard",18,8,"l8",0.34,"2023","hardly urbanised",2057,150
+"143",28,"male","eu_eea","both_parent_nl",5,"hbo",1850.5,"decile_4","2014","6_months",1.5,"yyoutube",16,18,22,20,"",8,4,"l4",0.396,"2023","not urbanised",2894,345
+"144",28,"male","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","1112","6_months",2.5,"Reddit, Instagram",20,12,15,18,"To stay updated on current events. Also to see whether there is interesting stuff I should know about that can make my life and job easier.",24,7,"l7",0.095,"2023","not urbanised",3486,620
+"145",41,"male","eu_eea","both_parent_nl",6,"wo",7050.5,"decile_10","9231","6_months",0.5,"Instagram",17,7,16,8,"",14,8,"l8",-0.098,"2023","strongly urbanised",691,495
+"146",20,"male","eu_eea","both_parent_nl",5,"hbo",NA,"income_pns","3069","6_months",1.5,"tiktok, instagram, youtube and snapchat",28,12,20,18,"",12,7,"l7",-0.191,"2023","not urbanised",2655,1940
+"147",24,"female","eu_eea","both_parent_nl",6,"wo",1350.5,"decile_3","3532","under_6_months",1.5,"Instagram",22,12,17,16,"Get inspired",8,8,"l8",0.051,"2023","not urbanised",4635,445
+"148",33,"female","eu_eea","born_abroad",3,"havo_vwo",NA,"income_pns","4851","6_months",4.5,"Reddit",12,17,20,18,"I use social media to engage with my niche hobbies and research more info about my hobbies or purchases (for example, searching for people's experiences with pourover grinders for coffee so I can make the best choice - no TikTok though). I also like to look at non-AI art for inspiration.",18,5,"l5",0.333,"2023","strongly urbanised",562,210
+"149",35,"female","eu_eea","both_parent_nl",6,"wo",2350.5,"decile_5","3034","6_months",2.5,"Instagram, Tiktok",23,12,18,17,"",10,5,"l5",-0.476,"2023","not urbanised",6036,1865
+"150",35,"male","eu_eea","one_parent_nl",6,"wo",NA,"income_pns","1412","6_months",0.5,"",24,11,16,17,"",24,7,"l7",0.46,"2023","hardly urbanised",1717,265
+"151",47,"male","eu_eea","one_parent_nl",5,"hbo",NA,"income_pns","7553","6_months",0.5,"i only use reddit nowadays, although i have used others in the past",19,22,21,9,"",32,6,"l6",-0.09,"2023","hardly urbanised",2173,1080
+"152",27,"female","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","7513","6_months",2.5,"Instagram and Reddit",25,6,20,14,"",22,7,"l7",-0.295,"2023","not urbanised",3194,540
+"153",38,"male","eu_eea","both_parent_nl",4,"mbo",2900.5,"decile_6","3332","6_months",0.5,"instagram, facebook",25,11,17,23,"entertainment / passing time",4,6,"l6",-0.112,"2023","not urbanised",2776,670
+"154",27,"female","eu_eea","both_parent_nl",4,"mbo",1350.5,"decile_3","7123","6_months",4.5,"tiktok",18,15,23,12,"",30,5,"l5",0.299,"2023","strongly urbanised",742,95
+"155",45,"female","eu_eea","born_abroad",6,"wo",7050.5,"decile_10","2803","6_months",2.5,"Tiktok",14,13,20,16,"Entertainment mainly, sometimes to gain info",26,7,"l7",0.064,"2023","hardly urbanised",2295,535
+"156",32,"male","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","1013","6_months",2.5,"Instagram",25,11,15,22,"I use it to follow motivational and educational pages about health, fitness and finance ",2,7,"l7",-0.033,"2023","not urbanised",6691,2090
+"157",24,"male","eu_eea","both_parent_nl",5,"hbo",3500.5,"decile_7","6831","6_months",1.5,"Youtube, X, Instagram",25,18,17,17,"To get more information about the world",24,5,"l5",-0.515,"2023","hardly urbanised",1925,670
+"158",44,"male","eu_eea","born_abroad",6,"wo",7050.5,"decile_10","1087","6_months",2.5,"facebook, X",27,6,21,16,"",26,7,"l7",0.217,"2023","hardly urbanised",1931,1550
+"159",32,"female","eu_eea","both_parent_abroad",6,"wo",NA,"income_pns","1066","6_months",2.5,"Youtube",28,16,15,21,"Inspirations, for example hairstyles, clothes, ways to decorate the house ",2,6,"l6",0.077,"2023","not urbanised",2959,1420
+"160",26,"male","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","5233","6_months",2.5,"Instagram",12,25,11,23,"Ideas, thing to do, check-up friends",24,6,"l6",-0.166,"2023","hardly urbanised",1762,875
+"161",28,"male","eu_eea","both_parent_nl",5,"hbo",3500.5,"decile_7","1705","6_months",2.5,"Twitter, Youtube",17,17,19,24,"try to open up myself to new people and experience",20,5,"l5",0.244,"2023","hardly urbanised",1733,1275
+"162",32,"female","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","6542","6_months",1.5,"Tiktok, facebook",26,11,8,19,"",0,7,"l7",-0.184,"2023","not urbanised",3539,840
+"163",26,"female","eu_eea","born_abroad",6,"wo",150,"decile_1","3544","6_months",4.5,"Instagram",24,11,20,14,"Learn new things, connect with what is happening in the world",34,5,"l5",0.35,"2023","hardly urbanised",2414,1520
+"164",45,"female","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","3523","6_months",1.5,"Instagram ",24,18,18,18,"",22,5,"l5",0.025,"2023","not urbanised",4459,685
+"165",32,"female","eu_eea","one_parent_nl",6,"wo",3500.5,"decile_7","3515","6_months",3.5,"youtube",22,5,21,19,"background noise",24,5,"l5",0.064,"2023","not urbanised",5720,460
+"166",40,"female","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","6604","6_months",1.5,"Instagram",27,14,22,18,"",16,8,"l8",0.399,"2023","strongly urbanised",669,195
+"167",41,"male","eu_eea","both_parent_nl",5,"hbo",4200.5,"decile_8","9501","6_months",1.5,"Instagram",21,25,21,20,"",10,5,"l5",-0.3,"2023","moderately urbanised",1267,1145
+"168",39,"female","non_eu_eea","born_abroad",6,"wo",7050.5,"decile_10","6521","6_months",2.5,"Instagram",20,14,8,21,"",8,7,"l7",-0.048,"2023","not urbanised",3701,435
+"169",27,"male","eu_eea","both_parent_nl",6,"wo",4200.5,"decile_8","9287","6_months",0.5,"Whatsapp",25,18,21,19,"",4,9,"l9",-0.124,"2023","extremely urbanised",293,190
+"170",48,"male","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","4621","6_months",1.5,"X",28,5,10,12,"",2,7,"l7",-0.391,"2023","not urbanised",2969,755
+"171",33,"female","eu_eea","both_parent_nl",5,"hbo",3500.5,"decile_7","5345","6_months",0.5,"Insta, whatsapp",17,16,26,21,"Trends, contact, music",30,7,"l7",0.096,"2023","hardly urbanised",1852,1140
+"172",34,"female","eu_eea","both_parent_nl",4,"mbo",2350.5,"decile_5","8225","6_months",0.5,"Facebook",20,5,14,22,"Entertainment and just doomscrolling sometimes",4,7,"l7",-0.16,"2023","hardly urbanised",2066,860
+"173",43,"female","eu_eea","born_abroad",5,"hbo",4200.5,"decile_8","3056","6_months",3.5,"X",15,24,19,14,"",16,6,"l6",0.37,"2023","strongly urbanised",904,150
+"174",23,"female","eu_eea","both_parent_nl",5,"hbo",1350.5,"decile_3","6224","6_months",3.5,"Instagram",21,15,15,21,"",14,7,"l7",-0.405,"2023","not urbanised",3557,975
+"175",20,"male","eu_eea","both_parent_nl",3,"havo_vwo",1850.5,"decile_4","2282","6_months",3.5,"",23,13,15,11,"",16,4,"l4",0.051,"2023","not urbanised",4005,710
+"176",22,"female","eu_eea","both_parent_abroad",4,"mbo",2900.5,"decile_6","5044","6_months",4.5,"Tiktok",23,14,10,19,"",0,7,"l7",-0.405,"2023","hardly urbanised",2021,1150
+"177",22,"female","eu_eea","both_parent_nl",5,"hbo",2900.5,"decile_6","3531","6_months",3.5,"Tiktok",26,13,12,17,"Information, look up how to things work",12,6,"l6",-0.001,"2023","not urbanised",4475,895
+"178",45,"female","eu_eea","born_abroad",4,"mbo",4200.5,"decile_8","2597","6_months",3.5,"X",22,11,13,22,"",22,6,"l6",0.435,"2023","hardly urbanised",1611,180
+"179",26,"female","eu_eea","both_parent_nl",3,"havo_vwo",1350.5,"decile_3","6541","6_months",3.5,"tiktok, instagram",28,19,22,24,"",14,6,"l6",-0.177,"2023","not urbanised",2842,1235
+"180",20,"female","eu_eea","born_abroad",3,"havo_vwo",150,"decile_1","3511","6_months",2.5,"Instagram, Tiktok, Youtube, Linkedin",35,14,28,15,"",20,6,"l6",0.118,"2023","not urbanised",5812,470
+"181",30,"male","eu_eea","born_abroad",6,"wo",2900.5,"decile_6","1541","6_months",4.5,"Instagram ",7,11,28,4,"",4,5,"l5",0.094,"2023","hardly urbanised",2044,845
+"182",42,"male","eu_eea","both_parent_nl",3,"havo_vwo",1850.5,"decile_4","4385","6_months",3.5,"Youtube and Instagram",15,16,21,17,"",28,3,"l3",-0.02,"2023","hardly urbanised",1759,475
+"183",54,"female","eu_eea","born_abroad",6,"wo",700.5,"decile_2","1183","6_months",0.5,"LinkedIN",5,5,4,4,"Looking for job opportunities, keeping on top of what is going on in my field, keeping in touch with former colleagues",0,3,"l3",-0.222,"2023","not urbanised",2812,775
+"184",32,"male","non_eu_eea","born_abroad",6,"wo",150,"decile_1","1621","6_months",4.5,"youtube ",25,18,18,18,"",2,6,"l6",0.1,"2023","hardly urbanised",2114,380
+"185",49,"female","eu_eea","both_parent_nl",6,"wo",1350.5,"decile_3","8017","6_months",1.5,"Youtube",28,5,16,15,"",2,6,"l6",0.258,"2023","hardly urbanised",1787,425
+"186",26,"female","eu_eea","both_parent_nl",6,"wo",1850.5,"decile_4","3034","6_months",1.5,"youtube",17,11,16,26,"entertainment",16,3,"l3",-0.476,"2023","not urbanised",6036,1865
+"187",28,"female","eu_eea","born_abroad",5,"hbo",3500.5,"decile_7","1705","6_months",5.5,"Tiktok, Facebook, Instagram, SnapChat, LinkedIn, Twitter",28,10,13,26,"",6,7,"l7",0.244,"2023","hardly urbanised",1733,1275
+"188",19,"male","eu_eea","both_parent_nl",3,"havo_vwo",150,"decile_1","1187","6_months",2.5,"X, Instagram, Tiktok",19,19,12,22,"",18,8,"l8",0.329,"2023","hardly urbanised",1538,735
+"189",30,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","4533","6_months",1.5,"instagram",14,13,8,8,"",26,4,"l4",0.493,"2023","strongly urbanised",681,130
+"190",35,"female","non_eu_eea","born_abroad",6,"wo",700.5,"decile_2","2583","6_months",1.5,"Ln",29,13,16,21,"",16,2,"l2",-0.13,"2023","not urbanised",3197,1125
+"191",24,"female","eu_eea","born_abroad",4,"mbo",150,"decile_1","1975","under_6_months",2.5,"TikTok",24,7,17,21,"",4,4,"l4",-0.255,"2023","hardly urbanised",1996,330
+"192",23,"male","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","3063","6_months",0.5,"Youtube",22,19,8,16,"",6,7,"l7",-0.265,"2023","not urbanised",3598,705
+"193",23,"male","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","5071","6_months",3.5,"Tiktok",32,10,14,16,"",10,7,"l7",0.284,"2023","strongly urbanised",742,680
+"194",27,"male","eu_eea","both_parent_abroad",4,"mbo",2900.5,"decile_6","6642","6_months",3.5,"TikTok",18,19,25,25,"",30,6,"l6",0.472,"2023","moderately urbanised",1004,195
+"195",21,"female","eu_eea","both_parent_nl",5,"hbo",1850.5,"decile_4","1064","6_months",5.5,"instagram",20,25,14,24,"",0,7,"l7",-0.348,"2023","not urbanised",4000,2145
+"196",18,"female","eu_eea","both_parent_abroad",3,"havo_vwo",NA,"income_pns","5617","6_months",5.5,"YouTube",27,10,24,20,"",30,8,"l8",0.139,"2023","not urbanised",4688,190
+"197",28,"male","eu_eea","both_parent_nl",3,"havo_vwo",150,"decile_1","7001","6_months",2.5,"YouTube",17,10,22,15,"",28,6,"l6",-0.124,"2023","hardly urbanised",1951,525
+"198",20,"female","eu_eea","both_parent_nl",3,"havo_vwo",700.5,"decile_2","7908","6_months",2.5,"Instagram",26,7,27,23,"",28,5,"l5",0.235,"2023","moderately urbanised",1132,630
+"199",49,"female","eu_eea","both_parent_nl",6,"wo",1350.5,"decile_3","8012","6_months",0.5,"Facebook",28,35,12,14,"",10,7,"l7",0.027,"2023","not urbanised",2970,505
+"200",31,"male","eu_eea","both_parent_nl",NA,"edu_pns",1850.5,"decile_4","1261","6_months",1.5,"TikTok",18,10,16,12,"",34,4,"l4",0.283,"2023","moderately urbanised",1083,470
+"201",24,"female","non_eu_eea","born_abroad",6,"wo",150,"decile_1","9713","6_months",4.5,"tiktok",28,18,18,17,"recently i used a tiktok to watch youtube/tv video clip (coz, i feel like my attention span is getting shorter and shorter, so tiktok is an easy way to spend time,  and getting distract from reality, and can use in my bed (easiler than watching TV or youtube on the tablet,desktop etc..)",24,5,"l5",-0.374,"2023","not urbanised",4570,1945
+"202",37,"female","eu_eea","both_parent_nl",5,"hbo",4200.5,"decile_8","6211","6_months",2.5,"Instagram",21,16,10,8,"Just to get my mind of things and relax",6,7,"l7",-0.389,"2023","not urbanised",4268,780
+"203",18,"male","eu_eea","both_parent_nl",3,"havo_vwo",150,"decile_1","7544","6_months",2.5,"Youtube, Instagram, tiktok",24,11,19,17,"",6,6,"l6",-0.506,"2023","hardly urbanised",2050,2655
+"204",26,"male","eu_eea","born_abroad",3,"havo_vwo",700.5,"decile_2","5654","under_6_months",3.5,"Youtube",10,19,11,10,"",4,4,"l4",-0.241,"2023","not urbanised",2522,1135
+"205",49,"male","eu_eea","both_parent_nl",5,"hbo",4200.5,"decile_8","5616","6_months",1.5,"Instagram and Whatsapp",24,11,19,8,"I use Social Media mainly to find inspiration on how people make things. I use it as a tutorial medium rather then seeing or hearing people I know that share what they did. I don't use Social Media that way anymore.",26,7,"l7",-0.011,"2023","not urbanised",4108,830
+"206",32,"male","eu_eea","both_parent_nl",4,"mbo",2350.5,"decile_5","2715","6_months",1.5,"Instagram",24,14,8,16,"I use social media to relax, and pass the time",16,4,"l4",-0.249,"2023","not urbanised",3549,720
+"207",26,"female","eu_eea","both_parent_nl",6,"wo",NA,"income_pns","5246","6_months",2.5,"Instagram",30,12,19,21,"",8,6,"l6",0.093,"2023","moderately urbanised",1408,450
+"208",19,"male","eu_eea","both_parent_nl",3,"havo_vwo",700.5,"decile_2","3404","6_months",1.5,"Instagram, Snapchat",30,8,10,21,"",2,7,"l7",0.325,"2023","hardly urbanised",1667,460
+"209",22,"female","eu_eea","one_parent_nl",6,"wo",700.5,"decile_2","3135","6_months",2.5,"Instagram ",32,15,20,20,"",22,6,"l6",0.045,"2023","not urbanised",2649,875
+"210",31,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","7031","6_months",0.5,"Instagram",22,8,7,20,"I mainly use social media to gather inspiration for my niche in art.",4,8,"l8",0.172,"2023","strongly urbanised",505,700
+"211",40,"male","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","2553","6_months",1.5,"Instagram, Reddit",18,7,8,19,"Just being bored",12,8,"l8",0.057,"2023","hardly urbanised",2201,1075
+"212",39,"female","eu_eea","both_parent_nl",6,"wo",3500.5,"decile_7","2341","6_months",1.5,"Youtube, Reddit",29,17,22,8,"N/A",30,7,"l7",0.397,"2023","hardly urbanised",1917,395
+"213",28,"male","eu_eea","both_parent_nl",3,"havo_vwo",5150.5,"decile_9","6852","6_months",3.5,"Instagram",26,12,18,22,"To learn about certain subject I normally would not encounter",24,4,"l4",0.211,"2023","hardly urbanised",1522,580
+"214",28,"male","eu_eea","both_parent_nl",4,"mbo",4200.5,"decile_8","7002","6_months",3.5,"Twitter",17,22,15,12,"Keeping track of fanbase activity",20,4,"l4",-0.332,"2023","hardly urbanised",1522,950
+"215",36,"male","eu_eea","both_parent_nl",5,"hbo",150,"decile_1","8121","6_months",1.5,"x,Bsky.Reddit",26,15,16,20,"News aggregation, I follow a lot of journalists",22,3,"l3",0.108,"2023","strongly urbanised",515,670
+"216",22,"male","eu_eea","both_parent_nl",5,"hbo",150,"decile_1","3453","6_months",0.5,"Instagram",15,11,10,21,"",0,7,"l7",0.375,"2023","hardly urbanised",1538,545
+"217",24,"female","eu_eea","both_parent_nl",6,"wo",150,"decile_1","2587","6_months",1.5,"Instagram en tiktok",28,13,16,17,"",8,9,"l9",0.083,"2023","not urbanised",2769,390
+"218",21,"female","non_eu_eea","born_abroad",3,"havo_vwo",0,"income_na","3039","under_6_months",2.5,"Twitter, instagram, and tiktok",20,22,26,18,"",26,5,"l5",0.257,"2023","not urbanised",5205,355
+"219",29,"male","eu_eea","both_parent_nl",5,"hbo",NA,"income_pns","3931","6_months",3.5,"YouTube",25,14,15,18,"",22,6,"l6",0.264,"2023","moderately urbanised",1008,720
+"220",34,"male","non_eu_eea","born_abroad",6,"wo",2350.5,"decile_5","6709","6_months",2.5,"Youtube, Facebook",28,16,13,27,"Youtube mostly for learning, facebook for interraction",8,5,"l5",-0.442,"2023","hardly urbanised",2019,180
+"221",31,"male","eu_eea","both_parent_nl",5,"hbo",2900.5,"decile_6","6543","6_months",2.5,"TikTok",7,20,21,4,"",30,6,"l6",-0.186,"2023","hardly urbanised",2437,865
+"222",30,"female","eu_eea","born_abroad",6,"wo",150,"decile_1","5751","6_months",4.5,"instagram, tiktok",27,5,19,17,"",26,5,"l5",-0.006,"2023","moderately urbanised",1363,1130
+"223",46,"female","eu_eea","born_abroad",6,"wo",5150.5,"decile_9","2719","6_months",3.5,"tiktok",27,22,17,23,"",16,6,"l6",0.275,"2023","hardly urbanised",1744,550
+"224",36,"female","non_eu_eea","born_abroad",4,"mbo",150,"decile_1","3721","6_months",2.5,"Facebook, Instagram, LinkedIn, Snapchat",6,5,14,20,"",4,3,"l3",0.003,"2023","hardly urbanised",1846,790
+"225",35,"male","non_eu_eea","both_parent_nl",2,"vmbo_mavo",3500.5,"decile_7","1445","6_months",1.5,"tik tok + instagram",23,14,25,21,"Voor het leren van nieuwe skills ( technisch ) en game informatie.",16,4,"l4",-0.127,"2023","hardly urbanised",2349,1050
+"226",34,"female","eu_eea","born_abroad",6,"wo",2350.5,"decile_5","2518","6_months",5.5,"Instagram",27,12,20,13,"",26,7,"l7",-0.001,"2023","not urbanised",7203,960
+"227",41,"male","eu_eea","both_parent_nl",6,"wo",5150.5,"decile_9","2025","6_months",1.5,"Reddit",15,10,15,20,"Mostly for entertainment and enrichment ",22,7,"l7",0.054,"2023","not urbanised",2638,735
+"228",31,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","5616","under_6_months",1.5,"Youtube",13,22,14,9,"",24,8,"l8",-0.011,"2023","not urbanised",4108,830
+"229",30,"female","eu_eea","both_parent_nl",5,"hbo",4200.5,"decile_8","1211","6_months",4.5,"TikTok",15,9,24,20,"",6,5,"l5",0.042,"2023","not urbanised",4042,700
+"230",48,"male","eu_eea","both_parent_nl",5,"hbo",7050.5,"decile_10","5401","6_months",1.5,"Instagram",12,12,8,20,"I do not use social media for other reason then discribed",2,8,"l8",-0.137,"2023","hardly urbanised",2106,825
+"231",47,"female","non_eu_eea","born_abroad",6,"wo",700.5,"decile_2","1083","6_months",1.5,"Facebook, Instagram",9,5,4,14,"for fun, staying connected with friends",6,5,"l5",-0.195,"2023","not urbanised",3321,585
+"232",25,"female","eu_eea","both_parent_abroad",6,"wo",150,"decile_1","1328","6_months",3.5,"Instagram and Reddit",20,16,19,16,"Mostly to kill time and look for inspiration (food place recommendations)",12,6,"l6",0.161,"2023","hardly urbanised",1707,710
+"233",37,"female","eu_eea","born_abroad",6,"wo",700.5,"decile_2","7522","6_months",1.5,"Facebook",29,10,19,18,"It makes me feel it distracts me from me overthinking about things I could not achieve. I also try to learn cooking recipes and Dutch language using reels. ",14,5,"l5",-0.354,"2023","moderately urbanised",1417,260
+"234",28,"male","eu_eea","both_parent_abroad",5,"hbo",2900.5,"decile_6","7607","6_months",1.5,"Tiktok",26,7,19,11,"",6,7,"l7",-0.201,"2023","hardly urbanised",2243,1150
+"235",30,"female","eu_eea","both_parent_nl",2,"vmbo_mavo",1350.5,"decile_3","1628","6_months",3.5,"instagram",25,7,13,19,"just watching funny videos ",30,3,"l3",-0.016,"2023","hardly urbanised",1921,2135
+"236",37,"female","eu_eea","born_abroad",5,"hbo",1850.5,"decile_4","5018","under_6_months",0.5,"Facebook, Instagram",28,9,15,21,"",8,5,"l5",0.208,"2023","hardly urbanised",1841,280
+"237",29,"female","eu_eea","born_abroad",6,"wo",5150.5,"decile_9","3526","6_months",2.5,"Red book, Douban, Youtube",23,13,14,13,"",34,4,"l4",-0.283,"2023","not urbanised",3266,1570
+"238",19,"female","eu_eea","both_parent_nl",3,"havo_vwo",150,"decile_1","5291","6_months",1.5,"",28,24,21,14,"",26,8,"l8",0.347,"2023","extremely urbanised",186,70
+"239",34,"male","eu_eea","both_parent_nl",6,"wo",2900.5,"decile_6","2969","6_months",0.5,"Instagram, Linkedin",17,10,14,13,"",16,6,"l6",0.308,"2023","extremely urbanised",241,90
+"240",25,"female","eu_eea","born_abroad",6,"wo",2900.5,"decile_6","5042","6_months",5.5,"Instagram, Tiktok",17,13,20,21,"",12,6,"l6",-0.431,"2023","not urbanised",3181,1710
+"241",40,"male",NA,NA,6,"wo",2900.5,"decile_6","5701","6_months",3.5,"Instagram, Facebook, linkedIn",14,8,10,24,"",0,6,"l6",-0.401,"2023","not urbanised",3166,2180
+"242",35,"female","eu_eea","both_parent_nl",5,"hbo",NA,"income_pns","6535","6_months",3.5,"TikTok & Instagram",15,11,20,23,"",26,6,"l6",-0.473,"2023","hardly urbanised",2044,1270
+"243",35,"female","eu_eea","both_parent_nl",5,"hbo",3500.5,"decile_7","4464","6_months",0.5,"instagram",20,13,19,19,"",2,7,"l7",0.451,"2023","strongly urbanised",786,50
+"244",31,"male","eu_eea","both_parent_nl",2,"vmbo_mavo",2900.5,"decile_6","6811","6_months",1.5,"instagram, facebook",18,18,11,20,"entertainment, passing time, connecting with people",6,6,"l6",-0.224,"2023","not urbanised",3645,765
+"245",40,"male","eu_eea","born_abroad",6,"wo",4200.5,"decile_8","5017","6_months",1.5,"YouTube, Facebook, Instagram",24,5,13,12,"",26,7,"l7",0.096,"2023","not urbanised",4125,310
+"246",30,"female","eu_eea","born_abroad",6,"wo",4200.5,"decile_8","1017","6_months",3.5,"TikTok",24,18,19,19,"",4,4,"l4",0.205,"2023","not urbanised",9641,460
+"247",36,"male","eu_eea","both_parent_nl",2,"vmbo_mavo",1850.5,"decile_4","3731","6_months",3.5,"Mostly YouTube and Reddit",18,15,19,20,"",24,4,"l4",0.255,"2023","hardly urbanised",1725,320
+"248",35,"female","eu_eea","born_abroad",5,"hbo",NA,"income_pns","7415","6_months",2.5,"Instagram, X, Pinterest",19,10,18,16,"",22,5,"l5",-0.241,"2023","hardly urbanised",2462,1505
+"249",27,"male","eu_eea","both_parent_nl",6,"wo",700.5,"decile_2","1363","6_months",2.5,"Tiktok",21,10,16,8,"",30,6,"l6",0.254,"2023","hardly urbanised",1740,925
+"250",20,"female","eu_eea","both_parent_nl",3,"havo_vwo",0,"income_na","7006","6_months",4.5,"YouTube ",24,6,11,21,"",10,5,"l5",0.098,"2023","moderately urbanised",1248,700
+"251",32,"male","eu_eea","both_parent_nl",5,"hbo",1350.5,"decile_3","1211","6_months",1.5,"instagram",28,5,13,8,"Just browsing mostly",10,6,"l6",0.042,"2023","not urbanised",4042,700
+"252",32,"female","eu_eea","born_abroad",5,"hbo",NA,"income_pns","2135","6_months",4.5,"instagram",17,20,22,13,"",28,3,"l3",0.289,"2023","hardly urbanised",2094,990
+"253",25,"female","eu_eea","both_parent_nl",5,"hbo",1850.5,"decile_4","9047","under_6_months",3.5,"Instragram",28,8,12,21,NA,0,4,"l4",-0.034,"2023","extremely urbanised",230,135
+"254",30,"male","eu_eea","both_parent_nl",5,"hbo",5150.5,"decile_9","4701","6_months",2.5,"Linkedin, Instagram, Tiktok",16,6,13,22,"Entertainment, personal development",0,7,"l7",-0.069,"2023","not urbanised",3007,550
+"255",34,"female","eu_eea","both_parent_nl",6,"wo",2350.5,"decile_5","2574","6_months",0.5,"tiktok, youtube, instagram",26,11,18,21,"to find ideas and travel tips",10,7,"l7",-0.172,"2023","not urbanised",7457,580
+"256",22,"female","eu_eea","both_parent_abroad",6,"wo",700.5,"decile_2","1056","6_months",3.5,"",30,17,21,8,"",14,6,"l6",-0.04,"2023","not urbanised",10146,3300
