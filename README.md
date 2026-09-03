@@ -1,12 +1,10 @@
 
 # Thesis Project: Social Media Envy, Escapism, and Mental Health
 
-## Highlights
-<img width="3636" height="1496" alt="scatterplot_heaven" src="https://github.com/user-attachments/assets/60c2bca4-d35b-4a2d-9e93-d1b0fe2f4505" />
+---
+_Check Highlights at the bottom for figures and tables._
 
-
-![Image Description](path/to/image2.png)
-*Short descriptive caption for image 2.*
+---
 
 ## General Information
 These R scripts comprise the data pipeline and statistical analysis for a thesis project submitted on **June 5th, 2026**. 
@@ -80,3 +78,25 @@ Contains two R scripts utilizing Hayes' PROCESS Macro:
 * Orchestrates the complete pipeline transforming raw survey inputs into a unified dataset.
 * Processes **257 survey responses** from Prolific (comprising roughly 40 Likert-scale items, 1 text input question, and 1 open-ended question per participant).
 * Executes the data-join bringing in the external CBS neighborhood-level SES data and urbanicity scores based on participant postcodes.
+
+## Highlights
+**Spearman Rank Correlation Containing Regression Analysis Variables**
+
+<img width="2600" height="1700" alt="Rplot02" src="https://github.com/user-attachments/assets/b13ba4c4-d23b-4620-b3d3-348ed86e3e0d" />
+
+_Note._ The numerical scores in the lower diagonal indicate Spearman's ρ. The colored shades in the upper diagonal also reflect ρ correlational strengths. The shades can be understood by referencing the vertical scale bar on the right. In the upper diagonal, * indicates p < .05, ** indicates p < .01, and *** indicates p < .001.
+
+
+**Stage 1 Classical Multiple Regression (H1a & H1b)**
+<img width="728" height="775" alt="Screenshot 2026-09-03 at 16 08 06" src="https://github.com/user-attachments/assets/525fa568-0bda-478c-befd-8639fc65e3af" />
+
+_Note_ A significant b-weight indicates the semi-partial correlation is also significant. b represents unstandardized regression weights. sr2 represents the semi-partial correlation squared. LL and UL indicate the lower and upper limits of a confidence interval, respectively. * indicates p < .05. ** indicates p < .01.
+
+**Stage 2 Simple Mediation Analysis (H2a & H2b)**
+
+<img width="905" height="590" alt="image" src="https://github.com/user-attachments/assets/96283fd5-1153-4ac4-9a8a-cdaa3fb11acf" />
+
+_Note._ Indirect effect (a×b) CIs based on 5,000 bias-corrected bootstrap samples. HC4 standard errors used. In Model 1, X = Malicious Envy,
+M = Suppressive Escapism, Y = Depression. In Model 2, X = Benign Envy, M = Expansive Escapism, Y = Depression. Both models were
+run on all control covariates presented in Table 2.
+
