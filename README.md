@@ -1,5 +1,7 @@
 
 # Thesis Project: Social Media, Escapism, and Mental Health
+#### official title: Digital Envy, Escapism, and Depression Between SES
+Groups Residing inthe Netherlands
 
 ## Highlights
 ![Image Description](path/to/image1.png)
