@@ -2,8 +2,8 @@
 # Thesis Project: Social Media Envy, Escapism, and Mental Health
 
 ## Highlights
-![Image Description](path/to/image1.png)
-*Short descriptive caption for image 1.*
+<img width="3636" height="1496" alt="scatterplot_heaven" src="https://github.com/user-attachments/assets/60c2bca4-d35b-4a2d-9e93-d1b0fe2f4505" />
+
 
 ![Image Description](path/to/image2.png)
 *Short descriptive caption for image 2.*
