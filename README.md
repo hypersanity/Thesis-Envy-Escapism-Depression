@@ -31,7 +31,7 @@ This research is motivated by ongoing global efforts to protect children's and t
 
 Furthermore, within the field of **Urban Studies**, there is currently a low engagement with the psychological implications of these daily technologies, as smart cities are primarily evaluated at the macro level.
 
-This study investigates three interconnected claims:
+This study pressuposes three interconnected claims:
 * **Claim 1:** Depression is increasing at an unprecedented rate globally, including in the Netherlands.
 * **Claim 2:** Daily life is increasingly spent on internet technologies (e.g., social media), impacting both younger and older populations.
 * **Claim 3:** Individuals from lower socioeconomic backgrounds tend to be more vulnerable to the effects of addictive internet technologies due to various factors (e.g., lower access to cultural capital, unfavorable living conditions, and systemic stressors).
